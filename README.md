@@ -12,4 +12,5 @@ Based on the results of the research that has been presented in the previous cha
   2. Recall = 0.992,
   3. Precision = 0.992,
   4. and F1 Score = 0.992.
+
 Based on these results, it proves that using the Decision Tree algorithm gets a high performance evaluation value so that it can be used to select students who are entitled to a scholarship.
